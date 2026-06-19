@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FediaiAndrii/usepopcorn.git/static/css/main.705a4c60.css",
+    "main.js": "/FediaiAndrii/usepopcorn.git/static/js/main.ca4722b4.js",
+    "index.html": "/FediaiAndrii/usepopcorn.git/index.html",
+    "main.705a4c60.css.map": "/FediaiAndrii/usepopcorn.git/static/css/main.705a4c60.css.map",
+    "main.ca4722b4.js.map": "/FediaiAndrii/usepopcorn.git/static/js/main.ca4722b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705a4c60.css",
+    "static/js/main.ca4722b4.js"
+  ]
+}
