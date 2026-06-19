@@ -2,7 +2,7 @@
 
 Простий та інтерактивний React-додаток для пошуку фільмів та ведення списку переглянутого. Проєкт створено в рамках проходження курсу "The Ultimate React Course" від Джонаса Шмедтмана.
 
-🌐 **Live Demo:** [Твоє посилання на GitHub Pages]
+🌐 **Live Demo:** https://fediaiandrii.github.io/usepopcorn/
 
 ## Головні функції
 
